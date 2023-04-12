@@ -25,6 +25,6 @@ git clone https://github.com/candradwicahyo/download-button.git
 
 ## preview dan demo 
 
-![preview](https://github.com/candradwicahyo/repo/download-button/master/image.jpg)
+![preview](https://github.com/candradwicahyo/download-button/blob/master/image.jpg)
 
 [tekan link ini](https://candradwicahyo.github.io/download-button) untuk mencoba demo 
